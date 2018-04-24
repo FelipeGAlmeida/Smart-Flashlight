@@ -44,3 +44,5 @@ Então, caso ~~Lumens~~ < 10 && !SensorObstruído = Lanterna acesa;
 - Sensor de luz
 - Sensor de proximidade
 - CircleProgress (Lzyzsd)
+
+### FGApps
